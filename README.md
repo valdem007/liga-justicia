@@ -1,6 +1,6 @@
 # Objetivos de la repositorio
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia por Valdemar Mendoza Fierros se agrega hora 56
+Este proyecto se encarga de manejar los planes de la liga de la justicia por Valdemar Mendoza Fierros se agrega hora 56 09
 
 
 ## Notas
