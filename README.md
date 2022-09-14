@@ -4,4 +4,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia por Val
 
 
 ## Notas
-Pueden hacer lo que quieran... desde el navegador, otro cambio desde Local
+Pueden hacer lo que quieran... desde el navegador, otro cambio
